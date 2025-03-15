@@ -1,0 +1,17 @@
+# Android
+build/
+*.iml
+local.properties
+/captures
+.externalNativeBuild
+.cxx
+
+# IDE
+.idea/
+.DS_Store
+
+# Gradle
+.gradle/
+gradlew
+gradlew.bat
+gradle-wrapper.jar
